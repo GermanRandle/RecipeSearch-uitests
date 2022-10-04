@@ -74,6 +74,6 @@ dependencies {
     androidTestImplementation "androidx.room:room-testing:2.4.3"
 
     implementation "androidx.fragment:fragment-ktx:1.5.2"
-    implementation "androidx.test:rules:1.4.0"
 
+    implementation "androidx.test:rules:1.4.0"
 }
