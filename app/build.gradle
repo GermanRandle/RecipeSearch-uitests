@@ -75,5 +75,7 @@ dependencies {
 
     implementation "androidx.fragment:fragment-ktx:1.5.2"
 
+    // Needed to add for UI tests
     implementation "androidx.test:rules:1.4.0"
+    implementation 'androidx.test.espresso:espresso-contrib:3.4.0'
 }

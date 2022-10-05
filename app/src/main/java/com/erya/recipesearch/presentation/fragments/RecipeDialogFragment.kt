@@ -104,6 +104,7 @@ class RecipeDialogFragment : Fragment() {
         val resBookmarkFilled = com.project.giniatovia.feature_recipe.R.drawable.ic_bookmark_filled
         val bookmarkImg = binding.bookmark
         val goBackButton = binding.icBack
+        binding.icBack.contentDescription = "Go back"
 
         goBackButton.setOnClickListener{
             parentFragmentManager.popBackStack()
