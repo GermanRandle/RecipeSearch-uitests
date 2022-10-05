@@ -76,6 +76,7 @@ class RecipeListFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         val toolbar = binding.toolbar
+        toolbar.navigationContentDescription = "Go back"
         toolbar.setNavigationIcon(com.project.giniatovia.feature_recipe.R.drawable.ic_back_green)
         toolbar.setNavigationOnClickListener {
             parentFragmentManager.popBackStack()

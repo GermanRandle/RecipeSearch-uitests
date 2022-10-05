@@ -57,6 +57,7 @@
         <entry key="feature_fridge/src/main/res/drawable/ic_close.xml" value="0.188" />
         <entry key="feature_fridge/src/main/res/drawable/ic_plus_green.xml" value="0.188" />
         <entry key="feature_fridge/src/main/res/drawable/main_button_background.xml" value="0.188" />
+        <entry key="feature_fridge/src/main/res/layout/activity_main.xml" value="0.18177083333333333" />
         <entry key="feature_fridge/src/main/res/layout/fragment_fridge.xml" value="0.25" />
         <entry key="feature_fridge/src/main/res/layout/fragment_search.xml" value="0.2078125" />
         <entry key="feature_fridge/src/main/res/layout/item_product.xml" value="0.30570652173913043" />
@@ -64,6 +65,7 @@
         <entry key="feature_fridge/src/main/res/layout/product_item_layout.xml" value="0.2078125" />
         <entry key="feature_recipe/src/main/res/drawable/bottom_navigation_selector.xml" value="0.188" />
         <entry key="feature_recipe/src/main/res/drawable/bottom_sheet_background.xml" value="0.188" />
+        <entry key="feature_recipe/src/main/res/drawable/ic_back_green.xml" value="0.19" />
         <entry key="feature_recipe/src/main/res/drawable/ic_bookmark.xml" value="0.188" />
         <entry key="feature_recipe/src/main/res/drawable/ic_bookmark_filled.xml" value="0.188" />
         <entry key="feature_recipe/src/main/res/drawable/ic_recipe.xml" value="0.188" />

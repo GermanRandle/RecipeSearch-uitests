@@ -29,13 +29,13 @@ class MainActivity : AppCompatActivity() {
         val prefs = getSharedPreferences(SharedPreferencesKeys.PREFS_FILE, MODE_PRIVATE)
         val isFirstLaunch = prefs.getBoolean(SharedPreferencesKeys.FIRST_LAUNCH, true)
 
-        if (isFirstLaunch) {
+        /*if (isFirstLaunch) {
             val prefEditor = prefs.edit()
             prefEditor.putBoolean(SharedPreferencesKeys.FIRST_LAUNCH, false)
             prefEditor.apply()
 
             OnboardingDialogFragment().show(supportFragmentManager, "onboarding")
-        }
+        }*/
     }
 
 }
