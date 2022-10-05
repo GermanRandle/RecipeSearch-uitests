@@ -249,8 +249,9 @@ public class UiTests {
     }
 
     private void waitForApi() {
+
         try {
-            Thread.sleep(1500);
+            Thread.sleep(2000);
         } catch (InterruptedException e) {
             Log.e(LOG_TAG, "Thread.sleep() was interrupted: " + e.getMessage());
         }
